@@ -1,0 +1,36 @@
+<html>
+<table>
+<caption>Hermanos</caption>
+<table border="3">
+  <tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+    <th>Sexo</th>
+  </tr>
+  <tr>
+  <td>Sergio</td>
+    <td>Cabral</td>
+    <td>30</td>
+    <td>Masculino</td>
+  </tr>
+  <tr>
+  <td>Franco</td>
+    <td>Cabral</td>
+    <td>26</td>
+    <td>Masculino</td>
+  </tr>
+  <tr>
+  <td>Adriana</td>
+    <td>Cabral</td>
+    <td>19</td>
+    <td>Femenino</td>
+  </tr>
+  <tr>
+  <td>Valentina</td>
+    <td>Cabral</td>
+    <td>19</td>
+    <td>Femenino</td>
+  </tr>
+</table>
+</html>
