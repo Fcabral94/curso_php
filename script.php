@@ -4,7 +4,7 @@
 sob re 
 varias 
 linass */
-
+//soy un nuevo comentario
 $nombre = "perrolito"; //todas las variables iniciasn con el signo $ . el iguel asigna una variable
 $nombre = "hola " . $nombre; //el punto concatena string
 echo $nombre . PHP_EOL;
